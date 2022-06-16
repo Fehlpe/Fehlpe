@@ -3,8 +3,10 @@
 <h4 align="center">a fullstack web developer student at Growdev.</h4>
 </div>
 
+<div align="center">
+	<img src="https://github.com/Fehlpe/Fehlpe/blob/output/github-contribution-grid-snake.svg" alt="">
+</div>
 
-![snake.gif](https://github.com/Fehlpe/Fehlpe/blob/output/github-contribution-grid-snake.gif)
 
       
 <details>
