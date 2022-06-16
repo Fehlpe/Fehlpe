@@ -25,6 +25,7 @@
   <summary>👨‍🎓 Educational Background</summary>
 <div align="center">
 - 📝 Studying Control Engineering at Universidade Tecnológica Federal do Paraná
+- 📝 Studying Growdev Full Stack Web Program
 </div>
 </details>
 
