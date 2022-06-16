@@ -41,18 +41,18 @@
   <summary>💻 Favorite Programming Language</summary>
    
 <div align="center">
- - JS    
- - C#
+ | JS    
+ | C# |
 </div>
 </details>
 
 <details>
   <summary>🧮 What Am I Studying At The Moment</summary>
 <div align="center">
-  - HTML5
-  - CSS3
-  - JS
-  - C#
+  | HTML5
+  | CSS3
+  | JS
+  | C# |
  
 </div>
 </details>
