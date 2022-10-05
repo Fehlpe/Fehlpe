@@ -41,7 +41,7 @@
   <summary>💻 Favorite Programming Language</summary>
    
 <div align="center">
- | JS    
+ | TS    
  | C# |
 </div>
 </details>
@@ -49,10 +49,12 @@
 <details>
   <summary>🧮 What Am I Studying At The Moment</summary>
 <div align="center">
-  | HTML5
+  | React
+  | Styled-Components
+  | TypeScript
   | CSS3
   | JS
-  | C# |
+  | HTML5 |
  
 </div>
 </details>
