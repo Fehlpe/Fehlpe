@@ -67,7 +67,7 @@
 <a href="https://www.instagram.com/fehlpee/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
 </a>
-<a href="https://www.linkedin.com/in/felipe-arcanjo-chaves-66569123b/](https://www.linkedin.com/in/felipe-arc/">
+<a href="https://www.linkedin.com/in/felipe-arc/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
