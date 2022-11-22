@@ -1,95 +1,21 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Felipe Arcanjo</h1>
-<h4 align="center">a fullstack web developer student at Growdev.</h4>
-</div>
+<h1 align="center">Olá 👋</h1>
+<h3 align="center">Me chamo Felipe Arcanjo e sou estudante de desenvolvimento Fullstack</h3>
 
-<div align="center">
-	<img src="https://github.com/Fehlpe/Fehlpe/blob/output/github-contribution-grid-snake.svg" alt="">
-</div>
+- 🌱 Estou estudando **NodeJS e Banco de dados**
 
+- 👨‍💻 Possuo um repositório com minha jornada de estudo como programador: [https://github.com/Fehlpe/coding](https://github.com/Fehlpe/coding)
 
-      
-<details>
-  <summary>🎸 Hobbies</summary> 
-  
-<div align="center">
-  - 🎸 I love playing the guitar. <br>
-  - 🎮 Play Video-Games. <br>
-  - 📕 Reading Sci-Fi Books <br>
-  - ⚽ Play Football <br>
- 
-</div>
-</details>
+- 📫 Como me contactar **felpearcanjo@gmail.com**
 
-<details>
-  <summary>👨‍🎓 Educational Background</summary>
-<div align="center">
-- 📝 Studying Control Engineering at Universidade Tecnológica Federal do Paraná <br>
-- 📝 Studying Growdev Full Stack Web Program
-</div>
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/felipe arcanjo chaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe arcanjo chaves" height="30" width="40" /></a>
+<a href="https://instagram.com/fehlpee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fehlpee" height="30" width="40" /></a>
+</p>
 
-<details>
-  <summary>👷 Professional Experiences</summary>
-<div align="center">
-- None (at the moment)
- 
-</div>
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary>💻 Favorite Programming Language</summary>
-   
-<div align="center">
- | TS    
- | C# |
-</div>
-</details>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fehlpe&show_icons=true&locale=en&layout=compact" alt="fehlpe" /></p>
 
-<details>
-  <summary>🧮 What Am I Studying At The Moment</summary>
-<div align="center">
-  | React
-  | Styled-Components
-  | TypeScript
-  | CSS3
-  | JS
-  | HTML5 |
- 
-</div>
-</details>
-
-## **My Socials**
-
-<a href="https://twitter.com/felpearc">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
-</a>
-<a href="https://www.instagram.com/fehlpee/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
-</a>
-<a href="https://www.linkedin.com/in/felipe-arc/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
-## **GitHub Statistics**
-<div align="center">
-<a href="https://github.com/Fehlpe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fehlpe&theme=highcontrast&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Fehlpe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fehlpe&show_icons=true&theme=highcontrast&line_height=40" alt="**SEU NOME** github stats"/>
-</a>
-   
-    
-<a href="https://github.com/Fehlpe">
- <img align="center" height=314 src="http://github-readme-streak-stats.herokuapp.com?user=Fehlpe&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=C2CB12&currStreakLabel=C2CB12&fire=C2CB12&sideNums=00FEFE&currStreakNum=00FEFE" alt="**SEU NOME** streak-stats"/>
-</a>
- 
- </br>
-  </br>
-<img  src="https://github-profile-trophy.vercel.app/?username=Fehlpe&theme=highcontrast&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true" />
-</div>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fehlpe&" alt="fehlpe" /></p>
